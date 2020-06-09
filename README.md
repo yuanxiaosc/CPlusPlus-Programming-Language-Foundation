@@ -1,6 +1,6 @@
 ## CPlusPlus编程语言基础
 
-[《CPlusPlus编程语言基础（思维导图）》](https://www.edrawsoft.cn/viewer/public/s/0ccd1475168593)用图的方式整理编辑五千余条C++知识点（几乎覆盖所有C++基础知识），希望此资源能帮助C++初学者入门和C++技术人员参考。
+《CPlusPlus编程语言基础》又称为“C加加知识树”、“C++知识树”，在吸收C++编程语言巨著《C++ Primer》和《C++ Primer Plus》的精华后，用树状思维导图的形式展现C++的基础知识（六千余条知识点）。该资源具有学习高效、格式丰富和内容权威的优点，供C++初学者入门和C++技术人员参考。
 
 注释：
 + C++是在C语言基础上开发的一种集面向对象编程、泛型编程和过程化编程于一体的编程语言，是C语言的超集。
@@ -10,8 +10,8 @@
 
 |在线阅读|下载|
 |-|-|
-|[CPlusPlus编程语言基础.emmx](https://www.edrawsoft.cn/viewer/public/s/0ccd1475168593)|[下载思维导图版](https://raw.githubusercontent.com/yuanxiaosc/CPlusPlus-Programming-Language-Foundation/master/CPlusPlus编程语言基础/CPlusPlus编程语言基础.emmx)|
-|[CPlusPlus编程语言基础.svg](https://raw.githubusercontent.com/yuanxiaosc/CPlusPlus-Programming-Language-Foundation/master/CPlusPlus%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/CPlusPlus%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80.svg)|[下载svg图片版](https://raw.githubusercontent.com/yuanxiaosc/CPlusPlus-Programming-Language-Foundation/master/CPlusPlus编程语言基础/CPlusPlus编程语言基础.svg)|
+|[CPlusPlus编程语言基础.emmx](https://www.edrawsoft.cn/viewer/public/s/19ac8206923459)|[下载思维导图版](https://raw.githubusercontent.com/yuanxiaosc/CPlusPlus-Programming-Language-Foundation/master/CPlusPlus编程语言基础/CPlusPlus编程语言基础.emmx)|
+|[CPlusPlus编程语言基础.svg](https://edrawcloudpubliccn.oss-cn-shenzhen.aliyuncs.com/viewer/self/16730454/share/2020-6-9/1591714601/main.svg)|[下载svg图片版](https://raw.githubusercontent.com/yuanxiaosc/CPlusPlus-Programming-Language-Foundation/master/CPlusPlus编程语言基础/CPlusPlus编程语言基础.svg)|
 
 CPlusPlus编程语言基础其它格式：
 + [下载word版](https://raw.githubusercontent.com/yuanxiaosc/CPlusPlus-Programming-Language-Foundation/master/CPlusPlus编程语言基础/CPlusPlus编程语言基础.docx)
